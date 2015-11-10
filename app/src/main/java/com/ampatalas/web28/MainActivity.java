@@ -23,7 +23,7 @@ import java.util.List;
 public class MainActivity extends AppCompatActivity {
 
     private static final String NAMESPACE = "http://net.ii.pwr.wroc.pl";
-    private static final String MAIN_REQUEST_URL = "http://web28.website.net.ii.pwr.wroc.pl/uslugi/lab04/Kalkulator.asmx";
+    private static final String MAIN_REQUEST_URL = "http://web28.website.net.ii.pwr.wroc.pl/uslugi/lab05/Kalkulator.asmx";
     private static final String SOAP_ACTION_ADD = "http://net.ii.pwr.wroc.pl/Add";
     private static final String SOAP_ACTION_SUB = "http://net.ii.pwr.wroc.pl/Sub";
     private static final String SOAP_ACTION_MUL = "http://net.ii.pwr.wroc.pl/Mul";
